@@ -1,1 +1,1 @@
-# QR-code-conponent
+# QR-code-component
